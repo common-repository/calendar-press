@@ -1,0 +1,1305 @@
+# Copyright (C) 2010 CalendarPress
+# This file is distributed under the same license as the CalendarPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CalendarPress 0.4.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/calendar-press\n"
+"POT-Creation-Date: 2011-02-20 22:55:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: calendar-press.php:231
+msgid "are attending"
+msgstr ""
+
+#: calendar-press.php:232
+msgid "are not attending"
+msgstr ""
+
+#: calendar-press.php:233
+msgid "might attend"
+msgstr ""
+
+#: calendar-press.php:244
+msgid "You have already indicated that you %1$s this event."
+msgstr ""
+
+#: calendar-press.php:251
+msgid "You have changed your response from %1$s to %2$s this event."
+msgstr ""
+
+#: calendar-press.php:262
+msgid "You have indicated that you %1$s this event."
+msgstr ""
+
+#: classes/initialize.php:85
+msgid "CalendarPress requires an update."
+msgstr ""
+
+#: classes/initialize.php:85
+msgid "You must <a href=\"%1$s\">run the update tool</a> for it to work."
+msgstr ""
+
+#: classes/initialize.php:92
+msgid "Update"
+msgstr ""
+
+#: classes/initialize.php:103
+msgid "Update to version 0.4"
+msgstr ""
+
+#: classes/initialize.php:111
+msgid "Converting old style signups to new style<ol>"
+msgstr ""
+
+#: classes/initialize.php:173
+msgid "New Event"
+msgstr ""
+
+#: classes/initialize.php:174 classes/initialize.php:262
+msgid "Add New %1$s"
+msgstr ""
+
+#: classes/initialize.php:175 classes/initialize.php:263
+#: classes/initialize.php:588
+msgid "Edit %1$s"
+msgstr ""
+
+#: classes/initialize.php:176 classes/initialize.php:264
+msgid "Edit"
+msgstr ""
+
+#: classes/initialize.php:177 classes/initialize.php:265
+#: classes/initialize.php:591
+msgid "New %1$s"
+msgstr ""
+
+#: classes/initialize.php:178 classes/initialize.php:182
+#: classes/initialize.php:266 classes/initialize.php:270
+msgid "View %1$s"
+msgstr ""
+
+#: classes/initialize.php:179 classes/initialize.php:267
+#: classes/initialize.php:584
+msgid "Search %1$s"
+msgstr ""
+
+#: classes/initialize.php:180 classes/initialize.php:268
+msgid "No %1$s found"
+msgstr ""
+
+#: classes/initialize.php:181 classes/initialize.php:269
+msgid "No %1$s found in Trash"
+msgstr ""
+
+#: classes/initialize.php:195
+msgid "Post type created by CalendarPress for events."
+msgstr ""
+
+#: classes/initialize.php:261
+msgid "New Location"
+msgstr ""
+
+#: classes/initialize.php:283
+msgid "Post type created by CalendarPress for locations."
+msgstr ""
+
+#: classes/initialize.php:500
+msgid "Image"
+msgstr ""
+
+#: classes/initialize.php:501
+msgid "Event Title"
+msgstr ""
+
+#: classes/initialize.php:502
+msgid "Introduction"
+msgstr ""
+
+#: classes/initialize.php:503 classes/calendar-press-core.php:162
+msgid "Categories"
+msgstr ""
+
+#: classes/initialize.php:504
+msgid "Tags"
+msgstr ""
+
+#: classes/initialize.php:505
+msgid "Signups"
+msgstr ""
+
+#: classes/initialize.php:506 includes/settings/register.php:62
+msgid "Overflow"
+msgstr ""
+
+#: classes/initialize.php:507 widgets/list-form.php:34
+#: includes/settings/widget.php:40
+msgid "Featured"
+msgstr ""
+
+#: classes/initialize.php:508
+msgid "Author"
+msgstr ""
+
+#: classes/initialize.php:546 includes/settings/register.php:96
+msgid "Yes"
+msgstr ""
+
+#: classes/initialize.php:548 includes/settings/register.php:100
+msgid "No"
+msgstr ""
+
+#: classes/initialize.php:585
+msgid "Popular %1$s"
+msgstr ""
+
+#: classes/initialize.php:586
+msgid "All %1$s"
+msgstr ""
+
+#: classes/initialize.php:587
+msgid "Parent %1$s"
+msgstr ""
+
+#: classes/initialize.php:589
+msgid "Update %1$s"
+msgstr ""
+
+#: classes/initialize.php:590
+msgid "Add %1$s"
+msgstr ""
+
+#: classes/initialize.php:592
+msgid "Add ore remove %1$s"
+msgstr ""
+
+#: classes/initialize.php:593
+msgid "Choose from the most used %1$s"
+msgstr ""
+
+#: classes/initialize.php:614
+msgid "Details"
+msgstr ""
+
+#: classes/initialize.php:615
+msgid "Date and Time"
+msgstr ""
+
+#: classes/initialize.php:618
+msgid "Registration Settings"
+msgstr ""
+
+#: classes/initialize.php:622 classes/calendar-press-core.php:115
+msgid "Event Location"
+msgstr ""
+
+#: classes/initialize.php:630 includes/meta-boxes/locations-box.php:27
+msgid "Location Details"
+msgstr ""
+
+#. #-#-#-#-#  calendar-press.pot (CalendarPress 0.4.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: classes/calendar-press-core.php:38
+msgid "CalendarPress"
+msgstr ""
+
+#: classes/calendar-press-core.php:74
+msgid "Events"
+msgstr ""
+
+#: classes/calendar-press-core.php:75 classes/administration.php:71
+msgid "Event"
+msgstr ""
+
+#: classes/calendar-press-core.php:107
+msgid "Event Categories"
+msgstr ""
+
+#: classes/calendar-press-core.php:107
+msgid "Event Category"
+msgstr ""
+
+#: classes/calendar-press-core.php:108
+msgid "Event Tags"
+msgstr ""
+
+#: classes/calendar-press-core.php:108
+msgid "Event Tag"
+msgstr ""
+
+#: classes/calendar-press-core.php:114
+msgid "Event Locations"
+msgstr ""
+
+#: classes/calendar-press-core.php:117
+msgid "Calendar of Events"
+msgstr ""
+
+#: classes/calendar-press-core.php:163
+msgid "Category"
+msgstr ""
+
+#: classes/calendar-press-core.php:174
+msgid "Cuisines"
+msgstr ""
+
+#: classes/calendar-press-core.php:175
+msgid "Cuisine"
+msgstr ""
+
+#. translators: Message displayed when the contributors list cannot be
+#. accessed.
+#: classes/credits.php:37
+msgid "There was an error getting the list. Try again later."
+msgstr ""
+
+#: classes/credits.php:58
+msgid "Contributed: "
+msgstr ""
+
+#: classes/credits.php:95 classes/administration.php:132
+#: includes/contributors.php:19
+msgid "Contributors"
+msgstr ""
+
+#: classes/credits.php:96 includes/contributors.php:20
+msgid ""
+"This page includes a list of CalendarPress users who have contributed time "
+"or money to the development of this plugin."
+msgstr ""
+
+#: classes/credits.php:100 includes/contributors.php:24
+msgid "Major Contributors"
+msgstr ""
+
+#: classes/credits.php:104 includes/contributors.php:30
+msgid "Additional Contributors"
+msgstr ""
+
+#: classes/administration.php:83
+msgid "Event Pending"
+msgid_plural "Events Pending"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/administration.php:98
+msgid "Location"
+msgid_plural "Locations"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/administration.php:110
+msgid "Location Pending"
+msgid_plural "Locations Pending"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/administration.php:131
+msgid " Settings"
+msgstr ""
+
+#: classes/administration.php:131 classes/administration.php:222
+msgid "Settings"
+msgstr ""
+
+#: classes/administration.php:132
+msgid " Contributors"
+msgstr ""
+
+#: classes/administration.php:426
+msgid "Thank you for using %1$s version %2$s."
+msgstr ""
+
+#: classes/shortcodes.php:165
+msgid "Sorry, no event found"
+msgstr ""
+
+#: templates/registration-signups.php:19 includes/settings.php:30
+msgid "Registration"
+msgstr ""
+
+#: templates/event-calendar.php:26
+msgid "Sunday"
+msgstr ""
+
+#: templates/event-calendar.php:27
+msgid "Monday"
+msgstr ""
+
+#: templates/event-calendar.php:28
+msgid "Tuesday"
+msgstr ""
+
+#: templates/event-calendar.php:29
+msgid "Wednesday"
+msgstr ""
+
+#: templates/event-calendar.php:30
+msgid "Thursday"
+msgstr ""
+
+#: templates/event-calendar.php:31
+msgid "Friday"
+msgstr ""
+
+#: templates/event-calendar.php:32
+msgid "Saturday"
+msgstr ""
+
+#: templates/single-event.php:30
+msgid "Pages:"
+msgstr ""
+
+#: templates/single-event.php:31
+msgid "Edit Event"
+msgstr ""
+
+#: templates/registration-yesno.php:19
+msgid "Are you attending?"
+msgstr ""
+
+#: templates/registration-yesno.php:29
+msgid "Attending"
+msgstr ""
+
+#: templates/registration-yesno.php:34
+msgid "Maybe Attending"
+msgstr ""
+
+#: templates/registration-yesno.php:38
+msgid "Not Attending"
+msgstr ""
+
+#: widgets/list-form.php:18
+msgid "Widget Title (optional)"
+msgstr ""
+
+#: widgets/list-form.php:22
+msgid "Events to Display"
+msgstr ""
+
+#: widgets/list-form.php:30
+msgid "Display Type"
+msgstr ""
+
+#: widgets/list-form.php:32
+msgid "Upcoming Events"
+msgstr ""
+
+#: widgets/list-form.php:33 includes/settings/widget.php:39
+msgid "Newest Events"
+msgstr ""
+
+#: widgets/list-form.php:35
+msgid "Recently Updated"
+msgstr ""
+
+#: widgets/list-form.php:36
+msgid "Random"
+msgstr ""
+
+#: widgets/list-form.php:41
+msgid "Category:"
+msgstr ""
+
+#: widgets/list-form.php:42
+msgid "All Categories"
+msgstr ""
+
+#: widgets/list-form.php:47
+msgid "Link Target"
+msgstr ""
+
+#: widgets/list-form.php:49
+msgid "None"
+msgstr ""
+
+#: widgets/list-form.php:50
+msgid "New Window"
+msgstr ""
+
+#: widgets/list-form.php:51
+msgid "Top Window"
+msgstr ""
+
+#: widgets/list-widget.php:26
+msgid "List events on your sidebar. By GrandSlambert."
+msgstr ""
+
+#: widgets/list-widget.php:28
+msgid "CalendarPress &raquo; List"
+msgstr ""
+
+#: includes/settings.php:26 includes/settings/features.php:19
+#: includes/settings/permalinks.php:19
+msgid "Features"
+msgstr ""
+
+#: includes/settings.php:27
+msgid "Permalinks"
+msgstr ""
+
+#: includes/settings.php:28 includes/settings/locations.php:19
+#: includes/settings/features.php:38
+msgid "Locations"
+msgstr ""
+
+#: includes/settings.php:29 includes/settings/features.php:39
+#: includes/settings/taxonomies.php:20
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/settings.php:31
+msgid "Display"
+msgstr ""
+
+#: includes/settings.php:32
+msgid "Widget"
+msgstr ""
+
+#: includes/settings.php:33
+msgid "Network"
+msgstr ""
+
+#: includes/settings.php:34 includes/settings/administration.php:20
+#: includes/settings/network.php:20
+msgid "Administration"
+msgstr ""
+
+#: includes/settings.php:42
+msgid "Plugin Settings"
+msgstr ""
+
+#: includes/settings.php:45
+msgid "CalendarPress settings have been reset to defaults."
+msgstr ""
+
+#: includes/settings.php:49
+msgid "CalendarPress Settings Saved."
+msgstr ""
+
+#: includes/settings.php:62
+msgid "Save Settings"
+msgstr ""
+
+#: includes/template_tags.php:223
+msgid "When: "
+msgstr ""
+
+#: includes/template_tags.php:224
+msgid " from "
+msgstr ""
+
+#: includes/template_tags.php:226
+msgid " to "
+msgstr ""
+
+#: includes/template_tags.php:227
+msgid " at "
+msgstr ""
+
+#: includes/template_tags.php:266
+msgid "Posted In: "
+msgstr ""
+
+#: includes/template_tags.php:290
+msgid "You must be %1$s to register"
+msgstr ""
+
+#: includes/template_tags.php:290
+msgid "logged in"
+msgstr ""
+
+#: includes/template_tags.php:336
+msgid " - Cancel Registration"
+msgstr ""
+
+#: includes/template_tags.php:340
+msgid "- Move (%1$s of %2$s Available)"
+msgstr ""
+
+#: includes/template_tags.php:343
+msgid " (%1$s of %2$s Available)"
+msgstr ""
+
+#: includes/template_tags.php:347
+msgid " Full"
+msgstr ""
+
+#: includes/template_tags.php:496
+msgid "No Registrations"
+msgstr ""
+
+#: includes/settings/display.php:20
+msgid "Display Settings"
+msgstr ""
+
+#: includes/settings/display.php:26
+msgid "User Data to Display"
+msgstr ""
+
+#: includes/settings/display.php:29
+msgid "Full Name"
+msgstr ""
+
+#: includes/settings/display.php:30
+msgid "First Name"
+msgstr ""
+
+#: includes/settings/display.php:31
+msgid "Last Name"
+msgstr ""
+
+#: includes/settings/display.php:32
+msgid "Display Name"
+msgstr ""
+
+#: includes/settings/display.php:34
+msgid "What user information to display for users who are signed up."
+msgstr ""
+
+#: includes/settings/display.php:38
+msgid "Show signup dates?"
+msgstr ""
+
+#: includes/settings/display.php:41
+msgid ""
+"Tick this checkbox if you want to display the date a person signs up on the "
+"list of registrations."
+msgstr ""
+
+#: includes/settings/display.php:45
+msgid "Signup date format"
+msgstr ""
+
+#: includes/settings/display.php:48
+msgid ""
+"Uses the standard <a href=\"%1$s\" target=\"_blank\">WordPress Date "
+"Formatting</a>."
+msgstr ""
+
+#: includes/settings/display.php:52
+msgid "Default Excerpt Length"
+msgstr ""
+
+#: includes/settings/display.php:55
+msgid "Default length of introduction excerpt when displaying in lists."
+msgstr ""
+
+#: includes/settings/display.php:59
+msgid "Enable Cookies"
+msgstr ""
+
+#: includes/settings/display.php:62
+msgid ""
+"Click this option to use cookies to remember the month and year to display "
+"when viewing the calendar page."
+msgstr ""
+
+#: includes/settings/display.php:66
+msgid "Enable Plugin CSS"
+msgstr ""
+
+#: includes/settings/display.php:69
+msgid "Click this option to include the CSS from the plugin."
+msgstr ""
+
+#: includes/settings/display.php:73
+msgid "Disable Filters"
+msgstr ""
+
+#: includes/settings/display.php:76 includes/settings/display.php:83
+msgid "Click this option to include events in the lists of posts by author."
+msgstr ""
+
+#: includes/settings/display.php:80
+msgid "Show in Author Lists"
+msgstr ""
+
+#: includes/settings/display.php:87
+msgid "Calendar Box Width"
+msgstr ""
+
+#: includes/settings/display.php:90
+msgid "The widget (pixels) of the date boxes on the calendar page."
+msgstr ""
+
+#: includes/settings/display.php:101 includes/settings/widget.php:63
+#: includes/settings/register.php:117 includes/settings/administration.php:47
+#: includes/settings/network.php:57
+msgid "Instructions"
+msgstr ""
+
+#: includes/settings/display.php:104 includes/settings/widget.php:66
+#: includes/settings/administration.php:50 includes/settings/network.php:60
+msgid "Visit the %1$s page for insructions for this page"
+msgstr ""
+
+#: includes/settings/display.php:104 includes/settings/widget.php:66
+#: includes/settings/locations.php:95 includes/settings/locations.php:96
+#: includes/settings/locations.php:97 includes/settings/features.php:87
+#: includes/settings/features.php:88 includes/settings/features.php:89
+#: includes/settings/permalinks.php:95 includes/settings/permalinks.php:96
+#: includes/settings/permalinks.php:97 includes/settings/taxonomies.php:93
+#: includes/settings/administration.php:50 includes/settings/network.php:60
+msgid "Documentation"
+msgstr ""
+
+#: includes/settings/widget.php:20
+msgid "Widget Defaults"
+msgstr ""
+
+#: includes/settings/widget.php:24
+msgid "Default Items to Display"
+msgstr ""
+
+#: includes/settings/widget.php:31
+msgid "Default for new widgets."
+msgstr ""
+
+#: includes/settings/widget.php:35
+msgid "Default List Widget Type"
+msgstr ""
+
+#: includes/settings/widget.php:38
+msgid "Next Events"
+msgstr ""
+
+#: includes/settings/widget.php:41
+msgid "Redently Updated"
+msgstr ""
+
+#: includes/settings/widget.php:43 includes/settings/widget.php:54
+msgid "Default link target when adding a new widget."
+msgstr ""
+
+#: includes/settings/widget.php:47
+msgid "Default Link Target"
+msgstr ""
+
+#: includes/settings/locations.php:25
+msgid "Location Slug"
+msgstr ""
+
+#: includes/settings/locations.php:28
+msgid "This will be used as the slug (URL) for the locations index."
+msgstr ""
+
+#: includes/settings/locations.php:29 includes/settings/permalinks.php:29
+msgid "View on Site"
+msgstr ""
+
+#: includes/settings/locations.php:33
+msgid "Location Identifier"
+msgstr ""
+
+#: includes/settings/locations.php:36
+msgid ""
+"This will be used in the permalink structure to identify the custom type for "
+"locations."
+msgstr ""
+
+#: includes/settings/locations.php:40
+msgid "Location Permalink Structure"
+msgstr ""
+
+#: includes/settings/locations.php:46
+msgid "Location Plural Name"
+msgstr ""
+
+#: includes/settings/locations.php:49 includes/settings/permalinks.php:49
+msgid "Plural name to use in the menus for this plugin."
+msgstr ""
+
+#: includes/settings/locations.php:53
+msgid "Location Singular Name"
+msgstr ""
+
+#: includes/settings/locations.php:56 includes/settings/permalinks.php:56
+msgid "Singular name to use in the menus for this plugin."
+msgstr ""
+
+#: includes/settings/locations.php:66 includes/settings/permalinks.php:66
+msgid "Permalink Instructions"
+msgstr ""
+
+#: includes/settings/locations.php:70 includes/settings/permalinks.php:70
+msgid ""
+"The permalink structure will be used to create the custom URL structure for "
+"your individual events. These follow WP's normal %1$s, but must also include "
+"the content type %2$s and at least one of these unique tags: %3$s or %4$s."
+msgstr ""
+
+#: includes/settings/locations.php:71 includes/settings/permalinks.php:71
+msgid "permalink tags"
+msgstr ""
+
+#: includes/settings/locations.php:79 includes/settings/permalinks.php:79
+msgid ""
+"Allowed tags: %year%, %monthnum%, %day%, %hour%, %minute%, %second%, "
+"%postname%, %post_id%"
+msgstr ""
+
+#: includes/settings/locations.php:83 includes/settings/permalinks.php:83
+msgid ""
+"For complete instructions on how to set up your permaliks, visit the %1$s."
+msgstr ""
+
+#: includes/settings/locations.php:84 includes/settings/permalinks.php:84
+#: includes/footer.php:27
+msgid "Documentation Page"
+msgstr ""
+
+#: includes/settings/locations.php:91 includes/settings/features.php:83
+#: includes/settings/permalinks.php:91
+msgid "Available Shortcodes"
+msgstr ""
+
+#: includes/settings/locations.php:93 includes/settings/features.php:85
+#: includes/settings/permalinks.php:93
+msgid ""
+"There are several shortcodes available in CalendarPress, but the most useful "
+"will likely be [event-list] and [event-calendar]."
+msgstr ""
+
+#: includes/settings/locations.php:95 includes/settings/features.php:87
+#: includes/settings/permalinks.php:95
+msgid "Used to display a list of events. [%1$s]"
+msgstr ""
+
+#: includes/settings/locations.php:96 includes/settings/features.php:88
+#: includes/settings/permalinks.php:96
+msgid "Used to display a calendar of events. [%1$s]"
+msgstr ""
+
+#: includes/settings/locations.php:97 includes/settings/features.php:89
+#: includes/settings/permalinks.php:97
+msgid "Used to display a single event on any post or page. [%1$s]"
+msgstr ""
+
+#: includes/settings/register.php:20
+msgid "Editor Options"
+msgstr ""
+
+#: includes/settings/register.php:26
+msgid "Registration Type"
+msgstr ""
+
+#: includes/settings/register.php:29 includes/settings/register.php:121
+#: includes/meta-boxes/signups-box.php:26
+msgid "No Registration"
+msgstr ""
+
+#: includes/settings/register.php:30 includes/meta-boxes/signups-box.php:27
+msgid "Limited Signups"
+msgstr ""
+
+#: includes/settings/register.php:31 includes/settings/register.php:123
+#: includes/meta-boxes/signups-box.php:28
+msgid "Yes/No/Maybe Type"
+msgstr ""
+
+#: includes/settings/register.php:32 includes/settings/register.php:124
+msgid "Select on Edit Screen"
+msgstr ""
+
+#: includes/settings/register.php:34
+msgid ""
+"Select the type of event registration you want to use. (No Registration) "
+"will show no registration information."
+msgstr ""
+
+#: includes/settings/register.php:41
+msgid "Options for limited signups."
+msgstr ""
+
+#: includes/settings/register.php:44
+msgid "Signup Type"
+msgstr ""
+
+#: includes/settings/register.php:44
+msgid ""
+"Select which options you want to make available on the site. Since signups "
+"is required for this type of registration, the checkbox is disabled."
+msgstr ""
+
+#: includes/settings/register.php:45
+msgid "Title"
+msgstr ""
+
+#: includes/settings/register.php:45
+msgid "Name used for the type of signup option, if active."
+msgstr ""
+
+#: includes/settings/register.php:46 includes/settings/taxonomies.php:47
+msgid "Default"
+msgstr ""
+
+#: includes/settings/register.php:46
+msgid "Set the default number of available slots for each signup type."
+msgstr ""
+
+#: includes/settings/register.php:50
+msgid "Signups "
+msgstr ""
+
+#: includes/settings/register.php:73
+msgid "Waiting lists"
+msgstr ""
+
+#: includes/settings/register.php:89
+msgid "Options for yes/no/maybe signups."
+msgstr ""
+
+#: includes/settings/register.php:92
+msgid "Allow which options?"
+msgstr ""
+
+#: includes/settings/register.php:103
+msgid "Maybe"
+msgstr ""
+
+#: includes/settings/register.php:119
+msgid ""
+"The registration options tab allows you to select the type of registrations, "
+"if any, to use in CalendarPress."
+msgstr ""
+
+#: includes/settings/register.php:121
+msgid ""
+"To use CalendarPress with no registration opeions, select No Registration."
+msgstr ""
+
+#: includes/settings/register.php:122 includes/settings/register.php:129
+msgid "Limited Sign-ups"
+msgstr ""
+
+#: includes/settings/register.php:122
+msgid "Select this item to use only the Limited Sign-ups feature."
+msgstr ""
+
+#: includes/settings/register.php:123
+msgid "Select this item to only the Yes/No/Maybe type of registration."
+msgstr ""
+
+#: includes/settings/register.php:124
+msgid ""
+"Select this item to allow the event editor to select the type of "
+"registration."
+msgstr ""
+
+#: includes/settings/register.php:131
+msgid ""
+"The limited sign-ups option allows you to set a maximum number of "
+"registrants for an event. There are option for overflow registrations and "
+"waiting lists. You can check the options you want to make acvaialble on the "
+"site."
+msgstr ""
+
+#: includes/settings/register.php:134
+msgid "Yes/No/Maybe Registration"
+msgstr ""
+
+#: includes/settings/register.php:136
+msgid ""
+"The Yes/No/Maybe registration option will provide you with a FaceBook style "
+"registration where users check the option for the event. You can decide here "
+"which of the three options will be available on the site."
+msgstr ""
+
+#: includes/settings/features.php:27
+msgid "Use plugin permalinks?"
+msgstr ""
+
+#: includes/settings/features.php:30
+msgid ""
+"Wordpress 3.1+ has a feature to list calendars on an index page. If you "
+"prefer to use your own permalink structure, check this box and the plugin "
+"will use the settings below."
+msgstr ""
+
+#: includes/settings/features.php:38
+msgid "Enable event locations included with the plugin."
+msgstr ""
+
+#: includes/settings/features.php:39
+msgid "Enable the custom taxonomies included with the plugin."
+msgstr ""
+
+#: includes/settings/features.php:40
+msgid ""
+"Turn on the featured images of WordPress 3.0 to enable thumbnail images for "
+"events."
+msgstr ""
+
+#: includes/settings/features.php:40
+msgid "Post Thumbnails"
+msgstr ""
+
+#: includes/settings/features.php:43
+msgid "Enable the Featured Event option (used in widgets and short codes)."
+msgstr ""
+
+#: includes/settings/features.php:43
+msgid "Featured Events"
+msgstr ""
+
+#: includes/settings/features.php:44
+msgid "Enable the event popup windows."
+msgstr ""
+
+#: includes/settings/features.php:44
+msgid "Pop-up Details"
+msgstr ""
+
+#: includes/settings/features.php:45
+msgid "Enable the use of custom fields for events."
+msgstr ""
+
+#: includes/settings/features.php:45
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/settings/features.php:48
+msgid "Enable WordPress comments for events."
+msgstr ""
+
+#: includes/settings/features.php:48
+msgid "Comments"
+msgstr ""
+
+#: includes/settings/features.php:49
+msgid "Enable WordPress trackbacks for events"
+msgstr ""
+
+#: includes/settings/features.php:49
+msgid "Trackbacks"
+msgstr ""
+
+#: includes/settings/features.php:50
+msgid "Enable WordPress revisions for events."
+msgstr ""
+
+#: includes/settings/features.php:50
+msgid "Revisions"
+msgstr ""
+
+#: includes/settings/features.php:54
+msgid ""
+"You can enable the use of the built in WordPress taxonomies if you prefer to "
+"use these over the custom taxonomies included with the plugin."
+msgstr ""
+
+#: includes/settings/features.php:58
+msgid "Enable the WordPress built in categories taxonomy for events."
+msgstr ""
+
+#: includes/settings/features.php:58
+msgid "Post Categories"
+msgstr ""
+
+#: includes/settings/features.php:59
+msgid "Enable the WordPress built in tags taxonomy for events."
+msgstr ""
+
+#: includes/settings/features.php:59
+msgid "Post Tags"
+msgstr ""
+
+#: includes/settings/features.php:72
+msgid "Feature Information"
+msgstr ""
+
+#: includes/settings/features.php:74
+msgid ""
+"There are several features that you can add to CalendarPress. Activating "
+"some features, including locations and taxonomies, will add additional tabs "
+"to this page to allow you to configure those features more."
+msgstr ""
+
+#: includes/settings/features.php:75
+msgid ""
+"If you need help configuring CalendarPress, you should read the information "
+"on the %1$s page."
+msgstr ""
+
+#: includes/settings/features.php:75
+msgid "Settings Documentation"
+msgstr ""
+
+#: includes/settings/permalinks.php:25
+msgid "Index Slug"
+msgstr ""
+
+#: includes/settings/permalinks.php:28
+msgid "This will be used as the slug (URL) for the calendar page."
+msgstr ""
+
+#: includes/settings/permalinks.php:33
+msgid "Identifier"
+msgstr ""
+
+#: includes/settings/permalinks.php:36
+msgid ""
+"This will be used in the permalink structure to identify the custom type for "
+"events.."
+msgstr ""
+
+#: includes/settings/permalinks.php:40
+msgid "Permalink Structure"
+msgstr ""
+
+#: includes/settings/permalinks.php:46 includes/settings/taxonomies.php:32
+msgid "Plural Name"
+msgstr ""
+
+#: includes/settings/permalinks.php:53 includes/settings/taxonomies.php:39
+msgid "Singular Name"
+msgstr ""
+
+#: includes/settings/taxonomies.php:29
+msgid "Converting"
+msgstr ""
+
+#: includes/settings/taxonomies.php:29
+msgid "Settings for the taxonomy \"%1$s\""
+msgstr ""
+
+#: includes/settings/taxonomies.php:35
+msgid ""
+"Plural name to use in the menus for this plugin for the taxonomy \"%1$s\"."
+msgstr ""
+
+#: includes/settings/taxonomies.php:42
+msgid ""
+"Singular name to use in the menus for this plugin for the taxonomy \"%1$s\"."
+msgstr ""
+
+#: includes/settings/taxonomies.php:49
+msgid "No Default"
+msgstr ""
+
+#: includes/settings/taxonomies.php:54
+msgid "Hierarchical"
+msgstr ""
+
+#: includes/settings/taxonomies.php:57
+msgid ""
+"Should the taxonomy \"%1$s\" have a hierarchical structure like post tags"
+msgstr ""
+
+#: includes/settings/taxonomies.php:61
+msgid "Activate"
+msgstr ""
+
+#: includes/settings/taxonomies.php:64
+msgid "Should the taxonomy \"%1$s\" have a active structure like post tags"
+msgstr ""
+
+#: includes/settings/taxonomies.php:68
+msgid "Delete"
+msgstr ""
+
+#: includes/settings/taxonomies.php:71
+msgid ""
+"Delete the taxonomy %1$s? Will not remove the data, only remove the taxonomy "
+"options."
+msgstr ""
+
+#: includes/settings/taxonomies.php:83
+msgid "Taxonomies Instructions"
+msgstr ""
+
+#: includes/settings/taxonomies.php:88
+msgid ""
+"If you want to have a page that lists your taxonomies, you need to do one of "
+"two things:"
+msgstr ""
+
+#: includes/settings/taxonomies.php:90
+msgid "Create Pages"
+msgstr ""
+
+#: includes/settings/taxonomies.php:90
+msgid ""
+"Create individual pages for each taxonomy that will list the terms. These "
+"pages must have the [recipe-tax] short code on them. [%1$s]"
+msgstr ""
+
+#: includes/settings/taxonomies.php:90
+msgid "Documentation for shortcode"
+msgstr ""
+
+#: includes/settings/taxonomies.php:93
+msgid "Create Template File"
+msgstr ""
+
+#: includes/settings/taxonomies.php:93
+msgid ""
+"If you create a template file named `recipe-taxonomy.php` in your theme, all "
+"taxonomies will use this template to display a list of taxonomies. [%1$s]"
+msgstr ""
+
+#: includes/settings/taxonomies.php:96
+msgid "Warning!"
+msgstr ""
+
+#: includes/settings/taxonomies.php:96
+msgid ""
+"If you do not select a display page for a taxonomy and the template file "
+"does not exist, any calls to the site with the URL slug for the taxonomy "
+"will redirect to your default recipe list."
+msgstr ""
+
+#: includes/settings/administration.php:26
+msgid "Reset to default: "
+msgstr ""
+
+#: includes/settings/administration.php:31
+msgid "Back-up Options: "
+msgstr ""
+
+#: includes/settings/administration.php:35
+msgid "Restore Options: "
+msgstr ""
+
+#: includes/settings/network.php:27
+msgid "Global Site: "
+msgstr ""
+
+#: includes/settings/network.php:30
+msgid "What site should events be shared with if sharing is active?"
+msgstr ""
+
+#: includes/settings/network.php:34
+msgid "Allow moving events"
+msgstr ""
+
+#: includes/settings/network.php:37
+msgid ""
+"Tick this checkbox if you want to allow users the ability to move events to "
+"a different site in the network."
+msgstr ""
+
+#: includes/settings/network.php:42
+msgid "Share events"
+msgstr ""
+
+#: includes/settings/network.php:45
+msgid ""
+"Tick this checkbox if you want all events created on any site to be added to "
+"the . Links on the default site will link to the event on this site."
+msgstr ""
+
+#: includes/meta-boxes/location-details-box.php:25
+#: includes/meta-boxes/details-box.php:25
+msgid "Featured Event:"
+msgstr ""
+
+#: includes/meta-boxes/location-details-box.php:32
+#: includes/meta-boxes/details-box.php:32
+msgid "Enable popup:"
+msgstr ""
+
+#: includes/meta-boxes/locations-box.php:23
+msgid "Search for Location"
+msgstr ""
+
+#: includes/meta-boxes/date-box.php:24
+msgid "Start Date"
+msgstr ""
+
+#: includes/meta-boxes/date-box.php:30
+msgid "Start Time"
+msgstr ""
+
+#: includes/meta-boxes/date-box.php:42
+msgid "End Date"
+msgstr ""
+
+#: includes/meta-boxes/date-box.php:49
+msgid "End Time"
+msgstr ""
+
+#: includes/meta-boxes/signups-box.php:24
+msgid "Registration Type: "
+msgstr ""
+
+#: includes/meta-boxes/signups-box.php:50
+msgid "Allow \"Yes\" option?"
+msgstr ""
+
+#: includes/meta-boxes/signups-box.php:57
+msgid "Allow \"No\" option?"
+msgstr ""
+
+#: includes/meta-boxes/signups-box.php:64
+msgid "Allow \"Maybe\" option?"
+msgstr ""
+
+#: includes/footer.php:19
+msgid "Credits"
+msgstr ""
+
+#: includes/footer.php:23
+msgid ""
+"Thank you for trying the %1$s plugin - I hope you find it useful. For the "
+"latest updates on this plugin, vist the %2$s. If you have problems with this "
+"plugin, please use our %3$s. For help using this plugin, visit the %4$s."
+msgstr ""
+
+#: includes/footer.php:25
+msgid "official site"
+msgstr ""
+
+#: includes/footer.php:26
+msgid "Support Forum"
+msgstr ""
+
+#: includes/footer.php:32
+msgid "This plugin is &copy; %1$s by %2$s and is released under the %3$s"
+msgstr ""
+
+#: includes/footer.php:35
+msgid "GNU General Public License"
+msgstr ""
+
+#: includes/footer.php:42
+msgid "Donate"
+msgstr ""
+
+#: includes/footer.php:45
+msgid ""
+"If you find this plugin useful, please consider supporting this and our "
+"other great %1$s."
+msgstr ""
+
+#: includes/footer.php:45
+msgid "plugins"
+msgstr ""
+
+#: includes/footer.php:46
+msgid "Donate a few bucks!"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://calendarpress.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add an event calendar with details, Google Maps, directions, RSVP system and "
+"more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "grandslambert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://grandslambert.com/"
+msgstr ""

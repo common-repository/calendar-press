@@ -1,0 +1,289 @@
+@charset "UTF-8";
+
+/**
+ * calendar-press.css - Stylesheet for the front end calendar pages.
+ *
+ * @package CalendarPress
+ * @subpackage templates
+ * @author GrandSlambert
+ * @copyright 2009-2011
+ * @access public
+ * @since 0.1
+ */
+
+div.cp-navigation {
+
+}
+
+div.cp-prev-month {
+     width: 25%;
+     float: left;
+     text-align: left;
+     font-size: 11px;
+}
+
+div.cp-curr-month {
+     width: 50%;
+     float: left;
+     text-align: center;
+     font-weight: bold;
+     font-size: 14px;
+}
+div.cp-next-month {
+     width: 25%;
+     float: right;
+     text-align: right;
+     font-size: 11px;
+}
+dl.cp-list-dow {
+     font-size: 10px;
+     text-align: center;
+     clear: both;
+}
+
+dl.cp-list-dow dt {
+     clear: none;
+     float: left;
+     border: solid 1px #666666;
+     text-align: center;
+     white-space: nowrap;
+     overflow: hidden;
+}
+
+dl.cp-boxes {
+     margin: 0;
+}
+.cp-list-dow {
+    margin: 0 !important;
+    overflow: hidden;
+}
+
+.cp-box-width, dd.cp-month-box {
+    width: 14% !important;
+}
+@media screen and (max-width: 750px) {
+        .cp-box-width, dd.cp-month-box {
+        width: 13% !important;
+        }
+}
+@media screen and (max-width: 450px) {
+        .cp-box-width, dd.cp-month-box {
+        width: 100% !important;
+        }
+        dl.cp-boxes dd.cp-month-box {
+            float: none;
+            min-height: 30px;
+        }
+        dd.cp-empty-day {
+            display:none;
+        }
+        dl.cp-list-dow {
+            display:none;
+        }
+}
+
+
+dl.cp-boxes dd {
+     float: left;
+     border: solid 1px #666666;
+     min-height: 125px;
+     margin: 0;
+     margin-bottom: 0 !important;
+}
+
+span.cp-month-contents {
+     text-align: right;
+     padding: 2px;
+     float: right;
+     font-size: 10px;
+}
+
+span.cp-month-numeral {
+     border-right: solid 1px #666666;
+     border-bottom: solid 1px #666666;
+     padding: 2px;
+     float: left;
+}
+
+.cp-break {
+     clear:both;
+}
+
+.cp-empty-day {
+     background: #ebebeb;
+}
+
+.cp-active-day {
+     background: #FFF8DC;
+}
+
+.cp-event-container {
+     margin-bottom: 2px;
+     text-align: left;
+}
+
+.cp-event-title {
+     font-size: 10px;
+     text-align: left;
+}
+
+div.cp-overDiv {
+     border: 1px solid #666666;
+     padding: 8px;
+     background: #EBEBEB;
+     font-size: 12px;
+}
+
+div.cp-current {
+     width: 35%;
+     float: left;
+     text-align:center;
+     font-size: 14px;
+     font-weight: bold;
+}
+
+div.cp-previous {
+     width: 28%;
+     float: left;
+     text-align: left;
+     font-size: 12px;
+}
+
+div.cp-next {
+     width: 28%;
+     float: left;
+     text-align: right;
+     font-size: 12px;
+}
+
+div.event-block {
+     clear: both;
+     padding: 5px 0;
+}
+
+h3.event-title {
+     padding: 0;
+     margin: 0;
+     border-bottom: solid 1px #666666;
+     text-align: left;
+}
+
+div.event-location {
+     width: 49%;
+     float: left;
+     padding: 2px 0;
+     text-align: left;
+     font-weight: bold;
+     font-size: 11px;
+}
+
+div.event-duration {
+     width: 49%;
+     float: right;
+     padding: 2px 0;
+     text-align: right;
+     font-weight: bold;
+     font-size: 11px;
+}
+
+div.event-divider {
+     clear: both;
+     border-top: solid 1px #666666;
+}
+
+div.event-description {
+     clear: both;
+     padding: 2px 0 5px;
+     border-bottom: solid 1px #666666;
+}
+
+div.event-rsvp {
+     text-align: center;
+}
+
+div.event-rsvp input {
+     font-size: 11px;
+}
+
+h4.event-rsvp-title {
+     text-align: center;
+     margin: 3px 0;
+     font-size: 12px;
+     font-weight: bold;
+}
+
+div.overDiv {
+     border: 1px solid #666666;
+     padding: 8px;
+     background: #EBEBEB;
+     font-size: 12px;
+}
+
+span.event-title-month {
+     display: block;
+     overflow: hidden;
+     width:inherit;
+}
+
+div.event-registration {
+     text-align: center;
+     padding: 0;
+}
+
+h3.event-registration-text {
+     background: #ebebeb;
+     font-size: 14px;
+     font-weight: bold;
+     text-align: center;
+}
+
+.event-notice {
+     color: #333;
+     font-weight: bold;
+     padding: 5px;
+     border: solid 1px #990000;
+}
+
+.event-meta {
+     background: #ebebeb;
+     padding: 8px;
+}
+
+.event-signups {
+     width: 49%;
+     float: left;
+     margin-right: 5px;
+}
+
+.event-overflow {
+     width: 49%;
+     float: left;
+}
+
+.event_button_not_selected {
+
+}
+
+.event_button_selected {
+     font-style: italic;
+}
+
+h3.event-registration-title {
+     text-align: center;
+     background: #ebebeb;
+
+}
+.event-yes {
+     width: 33%;
+     float:left;
+     margin-right: 5px;
+}
+.event-no {
+     width: 33%;
+     float:right;
+}
+.event-maybe {
+     width: 32%;
+     float:left;
+     margin-right: 5px;
+}
